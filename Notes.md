@@ -30,10 +30,6 @@ Which weight would you like to learn more about?
 
 
 
-
-
-
-
 $ bin/fighter_stats
 
 Hi! Welcome to Fighter Stats.
